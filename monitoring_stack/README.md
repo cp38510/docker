@@ -4,7 +4,8 @@
 
 - Install Docker and Docker-compose
 ```
-git clone 
+git clone https://github.com/cp38510/docker.git
+cd monitoring_stack
 bash init.sh
 ```
 
